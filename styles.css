@@ -137,6 +137,9 @@ ul {
 
 .contacto p a:hover {
     background-color: #b0003a;
+    color: #fff;
+    text-decoration: none;
+
 }
 
 .habilidades p, .idiomas p {
@@ -202,6 +205,10 @@ body {
 .contacto p i {
     color: #d81b60;
     margin-right: 10px;
+}
+
+.contacto p:hover i{
+    color: #fff;
 }
 
 .contacto a {
